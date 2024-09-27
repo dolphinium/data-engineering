@@ -18,7 +18,9 @@ I will save each step that I take on this road to this md file.
 
 First step that I take is making a plan for this work with the help of ChatGPT and tuning it for my case and requirements more spesifically.
 
-Take a look at [chat](https://chatgpt.com/share/66f6f003-9c64-8009-bb0a-ecac602fa8f4).
+Take a look at <a href="https://chatgpt.com/share/66f6f003-9c64-8009-bb0a-ecac602fa8f4" target="_blank">chat.</a>
+
+
 
 <details>
 <summary><b>Docker-Python-Pandas</b></summary>
